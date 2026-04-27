@@ -36,3 +36,5 @@
 | Brigitte      | 8:30 Uhr <br>Abfahrt mit LKW                 |                                                                                                 |                                                               | Ankunft ~18 Uhr<br>Dann Bier trinken                                  |
 | Simone        | 8:30 Uhr <br>Abfahrt mit LKW                 |                                                                                                 |                                                               | Ankunft ~18 Uhr<br>Nach Ausladen LKW wegbringen                       |
 | Boris/Susanne | (Bier trinken)                               | Telekom Techniker<br>zwischen 12 und 18:30 Uhr<br>(der ruft 30 min vorher an)<br>(Bier trinken) | Evtl. ne Kleinigkeit zu essen organisieren?<br>(Bier trinken) | Ausladen / Bier trinken<br><br>Singen in der Funzel<br>(Bier trinken) |
+
+![Unbenannt](Unbenannt.png)
